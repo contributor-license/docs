@@ -6,7 +6,7 @@ it — regenerate rather than editing them by hand.
 | File | Size | Use |
 | --- | --- | --- |
 | `cla-logo.svg` | 504×465 | Source. Navy `#101e41`, teal `#209a8f` |
-| `org-avatar-500.png` | 500×500 | GitHub organisation avatar |
+| `org-avatar-500.png` | 500×500 | GitHub organization avatar |
 | `app-logo-512.png` | 512×512 | GitHub App logo |
 | `app-logo-200.png` | 200×200 | GitHub App logo, if 512 is rejected |
 | `logo-1024.png` | 1024×1024 | Master raster, docs and README |
@@ -60,5 +60,5 @@ about 83 KB.
 
 Both are manual, and neither is stored in a repository:
 
-- Organisation avatar — Organisation settings → Profile
+- Organization avatar — Organization settings → Profile
 - GitHub App logo — Settings → Developer settings → GitHub Apps

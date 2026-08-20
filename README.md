@@ -25,19 +25,19 @@ Regenerate rather than editing a PNG by hand.
 
 | Asset | Size | Use |
 | --- | --- | --- |
-| `org-avatar-500.png` | 500×500 | Organisation avatar |
+| `org-avatar-500.png` | 500×500 | Organization avatar |
 | `app-logo-512.png` | 512×512 | GitHub App logo |
 | `app-logo-200.png` | 200×200 | GitHub App logo, if 512 is rejected |
 | `logo-1024.png` | 1024×1024 | Master raster |
 | `logo-1024-transparent.png` | 1024×1024 | Transparent, for your own background |
 | `social-preview-460.png` | 460×460 | Repository social preview |
 
-Colours: navy `#101e41`, teal `#209a8f`.
+Colors: navy `#101e41`, teal `#209a8f`.
 
 The navy is close to unreadable on a dark background. The white-backed variants
 are the safe default anywhere you cannot control the surface. Where you can —
 a README, for instance — serve a `prefers-color-scheme` pair instead, as
-[the organisation profile](https://github.com/contributor-license/.github/blob/main/profile/README.md)
+[the organization profile](https://github.com/contributor-license/.github/blob/main/profile/README.md)
 does.
 
 ## Where the projects live
@@ -45,11 +45,11 @@ does.
 | Repository | |
 | --- | --- |
 | [cla-action](https://github.com/contributor-license/cla-action) | The GitHub Action. Released, `v1` |
-| [.github](https://github.com/contributor-license/.github) | Organisation profile and shared community files |
+| [.github](https://github.com/contributor-license/.github) | Organization profile and shared community files |
 | `app` | Hosted service. Private, in development |
 | `infra` | Terraform and Cloudflare configuration. Private |
 
-## Licence
+## License
 
 [Apache-2.0](LICENSE) for the contents of this repository.
 
