@@ -1,0 +1,6 @@
+
+# never commit GitHub App keys or secrets
+*.pem
+*.key
+.dev.vars
+.env
